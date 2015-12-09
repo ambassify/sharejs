@@ -1,3 +1,4 @@
-lib/*
+example
 node_modules
+src
 .eslintcache
