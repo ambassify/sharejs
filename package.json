@@ -1,6 +1,6 @@
 {
   "name": "sharejs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utility library for sharing.",
   "main": "src/index.js",
   "scripts": {
