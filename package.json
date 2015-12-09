@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "name": "share-js",
+  "name": "sharejs",
   "version": "0.1.0",
   "description": "Utility library for sharing.",
   "main": "src/index.js",
@@ -13,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubobox/share-js.git"
+    "url": "git+https://github.com/bubobox/sharejs.git"
   },
   "keywords": [
     "share"
@@ -21,9 +20,9 @@
   "author": "Ambassify <npm@ambassify.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bubobox/share-js/issues"
+    "url": "https://github.com/bubobox/sharejs/issues"
   },
-  "homepage": "https://github.com/bubobox/share-js#readme",
+  "homepage": "https://github.com/bubobox/sharejs#readme",
   "devDependencies": {
     "babel": "^5.8.34",
     "babel-core": "^5.8.34",

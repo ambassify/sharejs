@@ -1,4 +1,4 @@
-# share-js
+# sharejs
 
 Utility library for sharing.
 
