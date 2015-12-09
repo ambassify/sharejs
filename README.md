@@ -12,3 +12,10 @@ __Note__: Social SDK's are loaded asynchronously on demand (when you call `confi
 ## Example
 
 See `example/app.js`. You can run the example with `npm start` and opening your browser at [http://localhost:8080/webpack-dev-server/bundle](http://localhost:8080/webpack-dev-server/bundle). `HOST` and `PORT` can be customized through ENVIRONMENT variables.
+
+## Resources
+
+More share links! More features! More fun!
+
+- http://faq.netvibes.com/knowledgebase/articles/370909-how-setup-a-custom-sharing
+- https://github.com/itgalaxy-company/ss.js/blob/master/README.md#whoisdomaintoolscom
