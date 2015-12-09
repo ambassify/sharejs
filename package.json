@@ -1,0 +1,41 @@
+{
+  "private": true,
+  "name": "share-js",
+  "version": "0.1.0",
+  "description": "Utility library for sharing.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "eslint --cache --fix src",
+    "build": "babel -d dist src",
+    "prepublish": "npm run build && n-copy --source . --destination dist \"README.md\"",
+    "publish": "npm publish dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubobox/share-js.git"
+  },
+  "keywords": [
+    "share"
+  ],
+  "author": "Ambassify <npm@ambassify.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bubobox/share-js/issues"
+  },
+  "homepage": "https://github.com/bubobox/share-js#readme",
+  "devDependencies": {
+    "babel": "^5.8.34",
+    "babel-core": "^5.8.34",
+    "babel-eslint": "^4.1.6",
+    "babel-loader": "^5.4.0",
+    "eslint": "^1.10.3",
+    "npm-build-tools": "^2.2.5",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "babel-runtime": "^5.8.34"
+  }
+}
