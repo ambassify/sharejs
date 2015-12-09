@@ -7,8 +7,7 @@
     "start": "webpack-dev-server",
     "test": "eslint --cache --fix src",
     "build": "babel -d lib src",
-    "prepublish": "npm run build",
-    "publish": "npm publish dist"
+    "prepublish": "npm run build"
   },
   "repository": {
     "type": "git",
