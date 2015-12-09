@@ -11,4 +11,4 @@ __Note__: Social SDK's are loaded asynchronously on demand (when you call `confi
 
 ## Example
 
-See `example/app.js`. You can run the example with `npm run start`.
+See `example/app.js`. You can run the example with `npm start`.
