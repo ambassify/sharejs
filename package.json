@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubobox/sharejs.git"
+    "url": "git+https://github.com/ambassify/sharejs.git"
   },
   "keywords": [
     "share"
@@ -19,9 +19,9 @@
   "author": "Ambassify <npm@ambassify.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bubobox/sharejs/issues"
+    "url": "https://github.com/ambassify/sharejs/issues"
   },
-  "homepage": "https://github.com/bubobox/sharejs#readme",
+  "homepage": "https://github.com/ambassify/sharejs#readme",
   "devDependencies": {
     "babel": "^5.8.34",
     "babel-core": "^5.8.34",
